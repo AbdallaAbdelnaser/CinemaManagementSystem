@@ -3,9 +3,7 @@ package user;
 import java.io.Serializable;
 
 public abstract class Person implements Serializable {
-	/**
-	 * 
-	 */
+	
 	/**
 	 * This person name
 	 */
